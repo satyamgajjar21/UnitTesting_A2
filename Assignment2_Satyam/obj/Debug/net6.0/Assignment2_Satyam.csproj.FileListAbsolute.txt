@@ -1,0 +1,15 @@
+E:\STUDY\Conestoga Study\2nd sem\software testing\Assignment 2\Assignment2_Satyam\Assignment2_Satyam\bin\Debug\net6.0\Assignment2_Satyam.exe
+E:\STUDY\Conestoga Study\2nd sem\software testing\Assignment 2\Assignment2_Satyam\Assignment2_Satyam\bin\Debug\net6.0\Assignment2_Satyam.deps.json
+E:\STUDY\Conestoga Study\2nd sem\software testing\Assignment 2\Assignment2_Satyam\Assignment2_Satyam\bin\Debug\net6.0\Assignment2_Satyam.runtimeconfig.json
+E:\STUDY\Conestoga Study\2nd sem\software testing\Assignment 2\Assignment2_Satyam\Assignment2_Satyam\bin\Debug\net6.0\Assignment2_Satyam.dll
+E:\STUDY\Conestoga Study\2nd sem\software testing\Assignment 2\Assignment2_Satyam\Assignment2_Satyam\bin\Debug\net6.0\Assignment2_Satyam.pdb
+E:\STUDY\Conestoga Study\2nd sem\software testing\Assignment 2\Assignment2_Satyam\Assignment2_Satyam\obj\Debug\net6.0\Assignment2_Satyam.csproj.AssemblyReference.cache
+E:\STUDY\Conestoga Study\2nd sem\software testing\Assignment 2\Assignment2_Satyam\Assignment2_Satyam\obj\Debug\net6.0\Assignment2_Satyam.GeneratedMSBuildEditorConfig.editorconfig
+E:\STUDY\Conestoga Study\2nd sem\software testing\Assignment 2\Assignment2_Satyam\Assignment2_Satyam\obj\Debug\net6.0\Assignment2_Satyam.AssemblyInfoInputs.cache
+E:\STUDY\Conestoga Study\2nd sem\software testing\Assignment 2\Assignment2_Satyam\Assignment2_Satyam\obj\Debug\net6.0\Assignment2_Satyam.AssemblyInfo.cs
+E:\STUDY\Conestoga Study\2nd sem\software testing\Assignment 2\Assignment2_Satyam\Assignment2_Satyam\obj\Debug\net6.0\Assignment2_Satyam.csproj.CoreCompileInputs.cache
+E:\STUDY\Conestoga Study\2nd sem\software testing\Assignment 2\Assignment2_Satyam\Assignment2_Satyam\obj\Debug\net6.0\Assignment2_Satyam.dll
+E:\STUDY\Conestoga Study\2nd sem\software testing\Assignment 2\Assignment2_Satyam\Assignment2_Satyam\obj\Debug\net6.0\refint\Assignment2_Satyam.dll
+E:\STUDY\Conestoga Study\2nd sem\software testing\Assignment 2\Assignment2_Satyam\Assignment2_Satyam\obj\Debug\net6.0\Assignment2_Satyam.pdb
+E:\STUDY\Conestoga Study\2nd sem\software testing\Assignment 2\Assignment2_Satyam\Assignment2_Satyam\obj\Debug\net6.0\Assignment2_Satyam.genruntimeconfig.cache
+E:\STUDY\Conestoga Study\2nd sem\software testing\Assignment 2\Assignment2_Satyam\Assignment2_Satyam\obj\Debug\net6.0\ref\Assignment2_Satyam.dll
